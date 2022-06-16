@@ -7,7 +7,7 @@
 | Arch          |   [][b1]   |   [][b2]   |   [][b3]   | [link][b4] |   [][b5]   |   [][b6]   |   [][b7]   |   [][b8]   |   [][b9]   |
 | Majanro       |   [][c1]   | [link][c2] |   [][c3]   | [link][c4] |   [][c5]   |   [][c6]   |   [][c7]   |   [][c8]   |   [][c9]   |
 | Fedora        |   [][d1]   | [link][d2] |   [][d3]   | [link][d4] |   [][d5]   |   [][d6]   | [link][d7] |   [][d8]   | [link][d9] |
-| openSUSE      |   [][e1]   | [link][e2] |   [][e3]   | [link][e4] |   [][e5]   |   [][e6]   | [link][e7] |   [][e8]   | [link][e9] |
+| openSUSE      |   [][e1]   | [link][e2] |   [][e3]   | [link][e4] |   [][e5]   |   [][e6]   | [link][e7] | [link][e8] | [link][e9] |
 | alpine        | [link][f1] | [link][f2] | [link][f3] | [link][f4] | [link][f5] |   [][f6]   | [link][f7] | [link][f8] | [link][f9] |
 | **BSD**       |
 | FreeBSD       | [link][g1] | [link][g2] |   [][g3]   | [link][g4] |   [][g5]   |   [][g6]   | [link][g7] | [link][g8] |   [][g9]   |
@@ -57,7 +57,7 @@
 [e5]: <>
 [e6]: <>
 [e7]: <http://download.opensuse.org/distribution/leap/15.4/appliances/opensuse-leap-image.ppc64le-lxc.tar.xz>
-[e8]: <>
+[e8]: <http://download.opensuse.org/ports/riscv/tumbleweed/images/openSUSE-Tumbleweed-RISC-V-JeOS-devel.riscv64-rootfs.riscv64.tar.xz>
 [e9]: <http://download.opensuse.org/distribution/leap/15.4/appliances/opensuse-leap-image.s390x-lxc.tar.xz>
 [f1]: <https://dl-cdn.alpinelinux.org/alpine/v3.16/releases/x86/alpine-minirootfs-3.16.0-x86.tar.gz>
 [f2]: <https://dl-cdn.alpinelinux.org/alpine/v3.16/releases/x86_64/alpine-minirootfs-3.16.0-x86_64.tar.gz>
