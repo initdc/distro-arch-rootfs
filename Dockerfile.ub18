@@ -1,0 +1,2 @@
+FROM scratch
+ADD ubuntu-base-18.04-base-arm64.tar.gz .

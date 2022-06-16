@@ -1,0 +1,2 @@
+FROM scratch
+ADD ubuntu-base-20.04.4-base-arm64.tar.gz .

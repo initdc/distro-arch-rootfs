@@ -1,0 +1,2 @@
+FROM scratch
+ADD openSUSE-Leap-15.3-ARM-JeOS.aarch64-rootfs.aarch64-2022.03.04-Build9.491.tar.xz .

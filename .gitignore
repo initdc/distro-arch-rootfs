@@ -1,0 +1,5 @@
+*.gz
+*.xz
+*.tar
+SYSTEM_*
+temp.md
