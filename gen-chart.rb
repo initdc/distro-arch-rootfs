@@ -2,8 +2,8 @@ CHARS = "a".."z"
 NUMS = 1..99
 
 FILE = "temp.md"
-# ignore "debian"
 DISTRO = ["Linux", "BSD"]
+# ignore "debian"
 LINUX_DISTRO = ["Ubuntu", "Arch", "Majanro", "Fedora", "openSUSE", "alpine"]
 BSD_DISTRO = ["FreeBSD", "OpenBSD", "NetBSD"]
 # ignore "arm/v5", "arm/v6", "arm/v7"
