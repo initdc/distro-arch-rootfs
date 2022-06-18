@@ -4,7 +4,7 @@ NUMS = 1..99
 FILE = "temp.md"
 DISTRO = ["Linux", "BSD"]
 # ignore "debian"
-LINUX_DISTRO = ["Ubuntu", "Arch", "Majanro", "Fedora", "openSUSE", "alpine"]
+LINUX_DISTRO = ["Ubuntu", "Arch", "Majanro", "Fedora", "openSUSE", "alpine", "gentoo"]
 BSD_DISTRO = ["FreeBSD", "OpenBSD", "NetBSD"]
 # ignore "arm/v5", "arm/v6", "arm/v7"
 ARCH = ["386", "amd64", "armhf", "arm64", "mips64", "mips64le", "ppc64le", "riscv64", "s390x"]
