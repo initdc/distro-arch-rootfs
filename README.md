@@ -4,6 +4,7 @@
 
 > Linux
 
+- debian https://github.com/initdc/debian-rootfs-tools/releases
 - ubuntu https://cdimage.ubuntu.com/ubuntu-base/releases/
 - arch https://archlinuxarm.org/platforms/armv8/generic
 - manjaro
