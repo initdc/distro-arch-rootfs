@@ -3,21 +3,28 @@
 ## Refs:
 
 > Linux
-
-- debian https://github.com/initdc/debian-rootfs-tools/releases
-- ubuntu https://cdimage.ubuntu.com/ubuntu-base/releases/
-- arch https://archlinuxarm.org/platforms/armv8/generic
+- debian
+    1. https://doi-janky.infosiftr.net/job/tianon/job/debuerreotype/
+    2. https://github.com/initdc/debian-rootfs-tools/releases
+- ubuntu
+    1. https://cdimage.ubuntu.com/ubuntu-base/releases/
+    2. https://cloud-images.ubuntu.com/minimal/releases/
+- arch
+    1. https://archive.archlinux.org/iso/
+    2. https://archlinuxarm.org/platforms/armv8/generic
 - manjaro
     1. https://manjaro.org/download/#generic
     2. https://github.com/manjaro-arm/rootfs/releases
-- fedora 
+- fedora
     1. https://fedoraproject.org/wiki/Architectures/ARM
     2. https://dl.fedoraproject.org/pub/fedora/linux/releases/
     3. https://alt.fedoraproject.org/alt/
-- alpine https://www.alpinelinux.org/downloads/
+- alpine
+    1. https://www.alpinelinux.org/downloads/
+    2. https://dl-cdn.alpinelinux.org/alpine/edge/
 - opensuse
-    1. https://en.opensuse.org/HCL:Chroot
-    2. http://download.opensuse.org/ports/aarch64/distribution/leap/15.3/appliances/
+    1. http://download.opensuse.org/ports/aarch64/distribution/leap/
+    2. http://download.opensuse.org/ports/riscv/tumbleweed/images/
 
 > Others
 
